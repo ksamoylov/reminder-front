@@ -1,6 +1,5 @@
-export type TodoInterface = {
-    userId: number
+export type ReminderInterface = {
     id: number
-    title: string
-    completed: boolean
+    description: string
+    period: string
 }
