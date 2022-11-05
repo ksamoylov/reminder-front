@@ -1,6 +1,6 @@
 import React from 'react'
-import { Logo } from './Logo'
 import { LangSwitcher } from './LangSwitcher'
+import { Logo } from './Logo'
 
 export function Header() {
     return (

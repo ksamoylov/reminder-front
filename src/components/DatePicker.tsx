@@ -1,8 +1,8 @@
 import React from 'react'
-import './App.css'
 import Calendar from 'react-calendar'
 import 'react-calendar/dist/Calendar.css'
 import { useTimePickers } from '../hooks/time-pickers'
+import './App.css'
 
 function App() {
     const { value, setCalendarValue } = useTimePickers()

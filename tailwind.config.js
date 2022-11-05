@@ -9,10 +9,10 @@ module.exports = {
             xl: '1440px',
         },
         colors: {
-            'purple': '#251B37',
-            'white': '#fff',
-            'black': '#000',
-            'gray': 'rgba(119, 119, 119, 0.21)',
+            purple: '#251B37',
+            white: '#fff',
+            black: '#000',
+            gray: 'rgba(119, 119, 119, 0.21)',
         },
         fontFamily: {
             sans: ['Josefin Sans', 'sans-serif'],
