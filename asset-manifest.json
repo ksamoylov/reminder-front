@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.66ebe4d6.css",
-    "main.js": "/static/js/main.7a1b565e.js",
-    "static/media/logo.svg": "/static/media/logo.1489411b2588d9bbae1a.svg",
-    "index.html": "/index.html",
-    "static/media/close.svg": "/static/media/close.de13bf7ba0f0cc13e0da.svg",
-    "main.66ebe4d6.css.map": "/static/css/main.66ebe4d6.css.map",
-    "main.7a1b565e.js.map": "/static/js/main.7a1b565e.js.map"
+    "main.css": "/ksamoylov/reminder-front/static/css/main.4b043eee.css",
+    "main.js": "/ksamoylov/reminder-front/static/js/main.7a1b565e.js",
+    "static/media/logo.svg": "/ksamoylov/reminder-front/static/media/logo.1489411b2588d9bbae1a.svg",
+    "index.html": "/ksamoylov/reminder-front/index.html",
+    "static/media/close.svg": "/ksamoylov/reminder-front/static/media/close.de13bf7ba0f0cc13e0da.svg",
+    "main.4b043eee.css.map": "/ksamoylov/reminder-front/static/css/main.4b043eee.css.map",
+    "main.7a1b565e.js.map": "/ksamoylov/reminder-front/static/js/main.7a1b565e.js.map"
   },
   "entrypoints": [
-    "static/css/main.66ebe4d6.css",
+    "static/css/main.4b043eee.css",
     "static/js/main.7a1b565e.js"
   ]
 }
