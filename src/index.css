@@ -6,10 +6,17 @@
 
 body {
     @apply text-purple;
+    background: theme('colors.purple-light');
 }
 
 #logo {
     background: url('logo.svg');
     width: 128px;
     height: 32px;
+}
+
+.close {
+    background: url('close.svg');
+    width: 11px;
+    height: 12px;
 }

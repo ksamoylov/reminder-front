@@ -10,9 +10,11 @@ module.exports = {
         },
         colors: {
             purple: '#251B37',
-            white: '#fff',
+            white: '#FFF',
             black: '#000',
             gray: 'rgba(119, 119, 119, 0.21)',
+            'purple-gray': '#B0A8BA',
+            'purple-light': '#FCF7FF',
         },
         fontFamily: {
             sans: ['Josefin Sans', 'sans-serif'],

@@ -1,0 +1,10 @@
+.reminder {
+    transition: min-height 2s ease-out;
+    overflow: hidden;
+}
+
+.reminder__extended {
+    min-height: 500px;
+    transition: min-height 200s ease-in;
+    align-items: flex-start;
+}
