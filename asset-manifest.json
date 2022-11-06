@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reminder-front/static/css/main.477c7d10.css",
-    "main.js": "/reminder-front/static/js/main.7a1b565e.js",
+    "main.js": "/reminder-front/static/js/main.c82c4876.js",
     "static/media/logo.svg": "/reminder-front/static/media/logo.1489411b2588d9bbae1a.svg",
     "index.html": "/reminder-front/index.html",
     "static/media/close.svg": "/reminder-front/static/media/close.de13bf7ba0f0cc13e0da.svg",
     "main.477c7d10.css.map": "/reminder-front/static/css/main.477c7d10.css.map",
-    "main.7a1b565e.js.map": "/reminder-front/static/js/main.7a1b565e.js.map"
+    "main.c82c4876.js.map": "/reminder-front/static/js/main.c82c4876.js.map"
   },
   "entrypoints": [
     "static/css/main.477c7d10.css",
-    "static/js/main.7a1b565e.js"
+    "static/js/main.c82c4876.js"
   ]
 }
